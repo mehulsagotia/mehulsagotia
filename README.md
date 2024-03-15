@@ -7,9 +7,7 @@
 
 - 💬 Ask me about **data analytics, Python programming, statistical modeling, or anything related to AI and machine learning!**
 
-- 📊 Data visualization? **My jam! I use Power BI and Tableau to craft compelling stories from data. Plus, I'm a whiz with SPSS for statistical analysis.**
-
-- 📫 How to reach me **mehulsagotia@gmail.com**
+- 📫 How to reach me **mehulsagotia@gmail.com , www.linkedin.com/in/mehulsagotia**
 
 - ⚡ Fun fact **: As a data analyst, I have a superpower - I can turn boring spreadsheets into thrilling dramas! 📊🕵️‍♂️**
 
