@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehul Sagotia</h1>
-<h3 align="center">A passionate DATA ANALYST from India</h3>
+<h3 align="center">A passionate Aspiring DATA ANALYST from India</h3>
 
 - 🔭 I’m currently working on **perfecting my data analytics skills and building projects.**
 
